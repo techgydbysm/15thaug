@@ -1,0 +1,30 @@
+{
+  "short_name": "TechGydbySM",
+  "name": "TechGyd by Sukalyan",
+  "theme_color": "#B70000",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "https://4.bp.blogspot.com/-oSs3cN_wgwc/XAqRVlMjAbI/AAAAAAAACl0/rxLbh_VLWWMxE8nDrtC-fVXD3rJPnhF0QCPcBGAYYCw/s320/20181203_103248.jpg",
+      "type": "image/jpg",
+      "sizes": "48x48"
+    },
+    {
+      "src": "https://4.bp.blogspot.com/-oSs3cN_wgwc/XAqRVlMjAbI/AAAAAAAACl0/rxLbh_VLWWMxE8nDrtC-fVXD3rJPnhF0QCPcBGAYYCw/s320/20181203_103248.jpg",
+      "type": "image/jpg",
+      "sizes": "96x96"
+    },
+    {
+      "src": "https://4.bp.blogspot.com/-oSs3cN_wgwc/XAqRVlMjAbI/AAAAAAAACl0/rxLbh_VLWWMxE8nDrtC-fVXD3rJPnhF0QCPcBGAYYCw/s320/20181203_103248.jpg",
+      "type": "image/jpg",
+      "sizes": "144x144"
+    },
+    {
+      "src": "https://4.bp.blogspot.com/-oSs3cN_wgwc/XAqRVlMjAbI/AAAAAAAACl0/rxLbh_VLWWMxE8nDrtC-fVXD3rJPnhF0QCPcBGAYYCw/s320/20181203_103248.jpg",
+      "type": "image/jpg",
+      "sizes": "192x192"
+    }
+  ],
+  "start_url": "/?utm_source=launcher"
+}
